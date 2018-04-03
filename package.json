@@ -1,0 +1,17 @@
+{
+  "name": "onetwotrip-test",
+  "version": "1.0.0",
+  "description": "This test task for OneTwoTrip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rightech IoT Cloud <nickname@rightech.io> (http://rightech.io)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "dotenv": "^5.0.1",
+    "node-uuid": "^1.4.8",
+    "redis": "^2.8.0"
+  }
+}
